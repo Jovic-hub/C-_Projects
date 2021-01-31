@@ -1,0 +1,4 @@
+C:\Users\Jovic\Desktop\Jovic\Estudos\OOP\WS02\lab\Debug\lab.exe
+C:\Users\Jovic\Desktop\Jovic\Estudos\OOP\WS02\lab\Debug\lab.pdb
+C:\Users\Jovic\Desktop\Seneca\WS02\lab\Debug\lab.exe
+C:\Users\Jovic\Desktop\Seneca\WS02\lab\Debug\lab.pdb
