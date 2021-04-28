@@ -4,7 +4,7 @@
 // Author: Fardad Soleimanloo
 // Description:
 // This file tests the lab section of your workshop
-/////////////////////////////////////////////
+////////////////////////////////////////////
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include "Account.h"
