@@ -1,9 +1,4 @@
-/**********************************************************
- * Name: Joao Victor Fernandes dos Santos
- * Student ID:155858194
- * Seneca email: jvfernandes-dos-sant@myseneca.ca
- * Section: OOP244 - NGG
- **********************************************************/
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <cstdlib>
