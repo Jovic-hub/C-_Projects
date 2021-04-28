@@ -4,7 +4,7 @@
 // Author: Fardad Soleimanloo
 // Description:
 // This file tests the DIY section of your workshop
-/////////////////////////////////////////////
+////////////////////////////////////////////
 #include <iostream>
 #include "Label.h"
 #include "LabelMaker.h"
