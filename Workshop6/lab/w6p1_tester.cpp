@@ -4,7 +4,7 @@
 // Author: Fardad Soleimanloo
 // Description:
 // This file tests the lab section of your workshop
-/////////////////////////////////////////////
+////////////////////////////////////////////
 #include <iostream>
 #include <fstream>
 #include <string>
