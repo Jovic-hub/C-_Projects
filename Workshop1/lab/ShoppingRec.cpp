@@ -1,9 +1,4 @@
-/**********************************************************
- * Name: Joao Victor Fernandes dos Santos
- * Student ID:155858194
- * Seneca email: jvfernandes-dos-sant@myseneca.ca
- * Section: OOP244 - NGG
- **********************************************************/
+
 #include <iostream>
 #include "ShoppingRec.h"
 #include "Utils.h"
