@@ -1,9 +1,4 @@
-/**********************************************************
- * Name: Joao Victor Fernandes dos Santos
- * Student ID:155858194
- * Seneca email: jvfernandes-dos-sant@myseneca.ca
- * Section: OOP244 - NGG
- **********************************************************/
+
 // Workshop 1:
 // Version: 0.91 
 //  (removed #include <cstring> that was included by mistake)
